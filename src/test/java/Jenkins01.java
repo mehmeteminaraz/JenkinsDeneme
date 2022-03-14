@@ -4,6 +4,5 @@ public class Jenkins01 {
 
         System.out.println("Merhaba Jenkins");   
        
-buraya yazdığım herşey hata verir
     }
 }
